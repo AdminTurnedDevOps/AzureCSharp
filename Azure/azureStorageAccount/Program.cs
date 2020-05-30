@@ -5,12 +5,13 @@ namespace azureStorageAccount
 {
     public class Program
     {
+            static string ClientId = "";
+            static string ClientSecret = "";
+            static string AzureTenantId = "";
+            static string subscriptionid = "";
+
         static void Main() 
         {
-            var ClientId = "";
-            var ClientSecret = "";
-            var AzureTenantId = "";
-            var subscriptionid = "";
 
             var credentials = SdkContext.AzureCredentialsFactory.FromServicePrincipal(ClientId, ClientSecret, AzureTenantId, AzureEnvironment.AzureGlobalCloud);
 
