@@ -6,14 +6,19 @@ namespace blobStorage
 {
     class AZBlob
     {
+        string storageConnectionString;
+        
         static void Main(string[] args)
         {
             Azure();
 
         }
 
-        static void Azure(string storageConnectionString = "")
+        static void Azure()
         {
+            Console.WriteLine("Enter the storage account connection string");
+            string storageConnectionString = Console.ReadLine();
+
             BlobContinuationToken continuationToken = null;
 
             var storageConnect = CloudStorageAccount.Parse(storageConnectionString);

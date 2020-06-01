@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mike\\Documents\\GITREPOS\\blobStorage\\blobStorage.csproj": {}
+    "C:\\Users\\Mike\\Documents\\GITREPOS\\AzureCSharp\\Azure\\blobStorage\\blobStorage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mike\\Documents\\GITREPOS\\blobStorage\\blobStorage.csproj": {
+    "C:\\Users\\Mike\\Documents\\GITREPOS\\AzureCSharp\\Azure\\blobStorage\\blobStorage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mike\\Documents\\GITREPOS\\blobStorage\\blobStorage.csproj",
+        "projectUniqueName": "C:\\Users\\Mike\\Documents\\GITREPOS\\AzureCSharp\\Azure\\blobStorage\\blobStorage.csproj",
         "projectName": "blobStorage",
-        "projectPath": "C:\\Users\\Mike\\Documents\\GITREPOS\\blobStorage\\blobStorage.csproj",
+        "projectPath": "C:\\Users\\Mike\\Documents\\GITREPOS\\AzureCSharp\\Azure\\blobStorage\\blobStorage.csproj",
         "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mike\\Documents\\GITREPOS\\blobStorage\\obj\\",
+        "outputPath": "C:\\Users\\Mike\\Documents\\GITREPOS\\AzureCSharp\\Azure\\blobStorage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
