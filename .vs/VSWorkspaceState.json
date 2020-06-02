@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Azure",
-    "\\Azure\\blobStorage"
+    "\\Azure\\blobStorage",
+    "\\Azure\\listBlobStorage"
   ],
-  "SelectedNode": "\\Azure\\blobStorage\\Program.cs",
+  "SelectedNode": "\\Azure\\listBlobStorage\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
