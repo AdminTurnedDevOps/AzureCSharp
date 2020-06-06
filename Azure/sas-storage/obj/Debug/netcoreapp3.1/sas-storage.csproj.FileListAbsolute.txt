@@ -1,0 +1,17 @@
+C:\Users\Mike\Desktop\SAS\sas-storage\bin\Debug\netcoreapp3.1\sas-storage.exe
+C:\Users\Mike\Desktop\SAS\sas-storage\obj\Debug\netcoreapp3.1\sas-storage.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\SAS\sas-storage\obj\Debug\netcoreapp3.1\sas-storage.AssemblyInfo.cs
+C:\Users\Mike\Desktop\SAS\sas-storage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mike\Desktop\SAS\sas-storage\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Mike\Desktop\SAS\sas-storage\obj\Debug\netcoreapp3.1\sas-storage.csprojAssemblyReference.cache
+C:\Users\Mike\Desktop\SAS\sas-storage\obj\Debug\netcoreapp3.1\sas-storage.csproj.CopyComplete
+C:\Users\Mike\Desktop\SAS\sas-storage\bin\Debug\netcoreapp3.1\sas-storage.deps.json
+C:\Users\Mike\Desktop\SAS\sas-storage\bin\Debug\netcoreapp3.1\sas-storage.runtimeconfig.json
+C:\Users\Mike\Desktop\SAS\sas-storage\bin\Debug\netcoreapp3.1\sas-storage.runtimeconfig.dev.json
+C:\Users\Mike\Desktop\SAS\sas-storage\bin\Debug\netcoreapp3.1\sas-storage.dll
+C:\Users\Mike\Desktop\SAS\sas-storage\bin\Debug\netcoreapp3.1\sas-storage.pdb
+C:\Users\Mike\Desktop\SAS\sas-storage\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Mike\Desktop\SAS\sas-storage\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+C:\Users\Mike\Desktop\SAS\sas-storage\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\Users\Mike\Desktop\SAS\sas-storage\obj\Debug\netcoreapp3.1\sas-storage.dll
+C:\Users\Mike\Desktop\SAS\sas-storage\obj\Debug\netcoreapp3.1\sas-storage.pdb
