@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mike\\Documents\\GITREPOS\\AzureCSharp\\Azure\\sas-storage\\sas-storage.csproj": {}
+    "C:\\Users\\Mike\\Desktop\\KeyVault\\listKeys\\listKeys.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mike\\Documents\\GITREPOS\\AzureCSharp\\Azure\\sas-storage\\sas-storage.csproj": {
+    "C:\\Users\\Mike\\Desktop\\KeyVault\\listKeys\\listKeys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mike\\Documents\\GITREPOS\\AzureCSharp\\Azure\\sas-storage\\sas-storage.csproj",
-        "projectName": "sas-storage",
-        "projectPath": "C:\\Users\\Mike\\Documents\\GITREPOS\\AzureCSharp\\Azure\\sas-storage\\sas-storage.csproj",
+        "projectUniqueName": "C:\\Users\\Mike\\Desktop\\KeyVault\\listKeys\\listKeys.csproj",
+        "projectName": "listKeys",
+        "projectPath": "C:\\Users\\Mike\\Desktop\\KeyVault\\listKeys\\listKeys.csproj",
         "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mike\\Documents\\GITREPOS\\AzureCSharp\\Azure\\sas-storage\\obj\\",
+        "outputPath": "C:\\Users\\Mike\\Desktop\\KeyVault\\listKeys\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,13 +42,25 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.Azure.Storage.Blob": {
+            "Azure.Identity": {
               "target": "Package",
-              "version": "[11.1.7, )"
+              "version": "[1.1.1, )"
             },
-            "WindowsAzure.Storage": {
+            "Azure.Security.KeyVault.Keys": {
               "target": "Package",
-              "version": "[9.3.3, )"
+              "version": "[4.0.3, )"
+            },
+            "Azure.Security.KeyVault.Secrets": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.Azure.KeyVault": {
+              "target": "Package",
+              "version": "[3.0.5, )"
+            },
+            "Microsoft.Azure.Management.KeyVault.Fluent": {
+              "target": "Package",
+              "version": "[1.33.0, )"
             }
           },
           "imports": [

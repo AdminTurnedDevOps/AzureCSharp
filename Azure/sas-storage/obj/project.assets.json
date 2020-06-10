@@ -3280,11 +3280,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mike\\Desktop\\SAS\\sas-storage\\sas-storage.csproj",
+      "projectUniqueName": "C:\\Users\\Mike\\Documents\\GITREPOS\\AzureCSharp\\Azure\\sas-storage\\sas-storage.csproj",
       "projectName": "sas-storage",
-      "projectPath": "C:\\Users\\Mike\\Desktop\\SAS\\sas-storage\\sas-storage.csproj",
+      "projectPath": "C:\\Users\\Mike\\Documents\\GITREPOS\\AzureCSharp\\Azure\\sas-storage\\sas-storage.csproj",
       "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mike\\Desktop\\SAS\\sas-storage\\obj\\",
+      "outputPath": "C:\\Users\\Mike\\Documents\\GITREPOS\\AzureCSharp\\Azure\\sas-storage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
